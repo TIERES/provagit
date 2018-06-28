@@ -3,3 +3,4 @@
 Outra linha para conflito
 Inserindo nova linha no arquivo
 Nova linha para versao
+Este arquivo continha erros
